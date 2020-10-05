@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@aerogear/unifiedpush-admin-client": "4.4.0",
-    "@fortawesome/fontawesome-free": "5.15.0",
+    "@fortawesome/fontawesome-free": "5.15.1",
     "@patternfly/react-core": "4.50.2",
     "@patternfly/react-table": "4.16.20",
     "@react-keycloak/web": "2.1.4",
