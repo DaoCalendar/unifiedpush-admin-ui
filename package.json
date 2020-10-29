@@ -16,7 +16,7 @@
     "react-device-detect": "1.13.1",
     "react-dom": "16.13.1",
     "react-router-dom": "5.2.0",
-    "react-syntax-highlighter": "13.5.3",
+    "react-syntax-highlighter": "15.3.0",
     "unifiedpush-node-sender": "0.16.1"
   },
   "scripts": {
